@@ -1,4 +1,4 @@
-# Super_Ignacian
+# Super Ignacian
 <!-- ![Super Ignacian Menu](https://i.imgur.com/TtDwY12.png width="400" height="790") -->
 <img src="https://i.imgur.com/TtDwY12.png" width="600" height="338">
 
